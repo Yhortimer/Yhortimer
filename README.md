@@ -1,6 +1,6 @@
 # **Hi there, I'm Ihor** :wave:
 
-Currently I'm looking for my first job as **frontend developer**. There is a list of some my skills bellow.
+Currently I'm looking for my first job as **frontend developer**. There is a list of some of my skills bellow.
 
 <br>
 
