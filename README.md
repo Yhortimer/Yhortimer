@@ -1,10 +1,10 @@
 # **Hi there, I'm Ihor** :wave:
 
-Currently I'm looking for my first job as frontend developer. There is a list of some my skills bellow.
+Currently I'm looking for my first job as **frontend developer**. There is a list of some my skills bellow.
 
 <br>
 
-You can contact me via [LinkedIn](https://www.linkedin.com/in/khryplyvyi/) or mail me at igorhryplyvyy@gmail.com
+You can **contact** me via [LinkedIn](https://www.linkedin.com/in/khryplyvyi/) or mail me at igorhryplyvyy@gmail.com
 
 <br>
 
