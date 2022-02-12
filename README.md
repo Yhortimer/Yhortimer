@@ -57,6 +57,6 @@ Fully functional, responsive CV app, created in React.
 <br>
 
 <!-- ![](img/cv-app-screenshot.png) -->
- <video width="1046" height="168" controls>
-      <source src="./video/cv-app-reacr-video.mp4" type=video/mp4>
+ <video width="520" height="440" controls>
+      <source src="https://drive.google.com/file/d/1oLxLObpix0sDiZ9nZ0BtXTkj-rEgmrxs/view?usp=sharing" type=video/mp4>
     </video>
