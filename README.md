@@ -12,8 +12,6 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/khryplyvyi/) or ma
 
 ## **Favorite Tech**
 
----
-
 <table>
   <tr>
      <td align="center" width="96">
