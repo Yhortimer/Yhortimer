@@ -7,6 +7,22 @@
 
 <br>
 
+# **Latest Experience**
+
+- ## QA engineer at "Rolique"
+
+### _March 2020 – August 2021_
+
+- ## QC engineer and system configurator at "EveryMatrix"
+
+### _July 2019 – February 2020_
+
+- ## Manual tester at "Testbirds"
+
+### _June 2019 - May 2021_
+
+<br>
+
 ### You can **contact** me via [LinkedIn](https://www.linkedin.com/in/khryplyvyi/) or mail me at igorhryplyvyy@gmail.com
 
 <br>
