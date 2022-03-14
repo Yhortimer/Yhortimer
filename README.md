@@ -19,7 +19,7 @@
 
 - ## Manual tester at "Testbirds"
 
-### _June 2019 - May 2021_
+### _June 2019 – May 2021_
 
 <br>
 
