@@ -3,11 +3,11 @@
 
 # **Hi there, my name is Ihor** :wave:
 
-I am a result-oriented quality assurance engineer with 2+ years of expertise in a fast-paced Web startup with quick application development life cycles, and software testing in general. Also, I have a solid understanding of software product lifecycle and main AGILE techniques.
+### I am a result-oriented quality assurance engineer with 2+ years of expertise in a fast-paced Web startup with quick application development life cycles, and software testing in general. Also, I have a solid understanding of software product lifecycle and main AGILE techniques.
 
 <br>
 
-You can **contact** me via [LinkedIn](https://www.linkedin.com/in/khryplyvyi/) or mail me at igorhryplyvyy@gmail.com
+### You can **contact** me via [LinkedIn](https://www.linkedin.com/in/khryplyvyi/) or mail me at igorhryplyvyy@gmail.com
 
 <br>
 
@@ -81,10 +81,10 @@ You can **contact** me via [LinkedIn](https://www.linkedin.com/in/khryplyvyi/) o
 
 # **Languages**
 
-- Ukrainian - native
-- Russian - fluent (but isn't preferable one)
-- English - upper intermediate
-- Polish - beginner
+- ## Ukrainian - native
+- ## Russian - fluent (but isn't preferable one)
+- ## English - upper intermediate
+- ## Polish - beginner
 
 # Projects that might interest you
 
