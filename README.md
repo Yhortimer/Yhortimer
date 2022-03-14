@@ -73,25 +73,25 @@
 
 # **Skills Summary**
 
-- ## API testing
+## API testing
 
-### _Postman_
+- ### _Postman_
 
-- ## Performance testing
+## Performance testing
 
-### _Apache JMeter, Chronograf, InfluxDB_
+- ### _Apache JMeter, Chronograf, InfluxDB_
 
-- ## Task and Test Management Tools
+## Task and Test Management Tools
 
-### _Jira, TestRail, Mantis, Trello_
+- ### _Jira, TestRail, Mantis, Trello_
 
-- ## Automation testing tools
+## Automation testing tools
 
-### _Python/Webdriver, Katalon ( **I'm very keen of to learn automation testing with JS and would be glad to get such an opportunity**)_
+- ### _Python/Webdriver, Katalon ( **I'm very keen of to learn automation testing with JS and would be glad to get such an opportunity**)_
 
-- ## Additional skills
+## Additional skills
 
-### _Basic knowledge of algorithms, experienced Linux user, skilled in Photoshop, GIT, experience with React, strong understanding of MVC design pattern_
+- ### _Basic knowledge of algorithms, experienced Linux user, skilled in Photoshop, GIT, experience with React, strong understanding of MVC design pattern_
 
 <br>
 
