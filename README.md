@@ -1,4 +1,4 @@
-![](./video/idi_nahui.gif?style=centerme)>
+![](./img/stand.jpg)
 <br>
 
 # **Hi there, my name is Ihor** :wave:
