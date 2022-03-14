@@ -9,17 +9,17 @@
 
 # **Latest Experience**
 
-- ## QA engineer at "Rolique"
+- ### QA engineer at "Rolique"
 
-### _March 2020 – August 2021_
+#### _March 2020 – August 2021_
 
-- ## QC engineer and system configurator at "EveryMatrix"
+- ### QC engineer and system configurator at "EveryMatrix"
 
-### _July 2019 – February 2020_
+#### _July 2019 – February 2020_
 
-- ## Manual tester at "Testbirds"
+- ### Manual tester at "Testbirds"
 
-### _June 2019 – May 2021_
+#### _June 2019 – May 2021_
 
 <br>
 
